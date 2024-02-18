@@ -1,1 +1,1 @@
-# Business-Case-SQL-Taregt
+# Business-Case-SQL-Target
